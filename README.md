@@ -30,7 +30,7 @@ urlpatterns = [
     path('about/', about),
     path('contact/', contact)
 ]
-
+```
 ### Archivos Principales del Proyecto "desafio"
 
 1. **manage.py**: Punto de entrada para administrar el proyecto Django.
